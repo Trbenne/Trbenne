@@ -1,5 +1,5 @@
 ## Fun Fact:
-I once taught **'Mewing 101'** in Grad School because the  
+In Grad School, I taught **'Mewing 101'** because the  
 IT department *did NOT* actually read the support tickets...
 
 **Mew Master**
