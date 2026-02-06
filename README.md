@@ -11,9 +11,9 @@ IT department *did NOT* actually read the support tickets...
 - 🌱 I have research in ML techniques for automated pentesting.
 
 ### Current Projects:
-* Building a generic local LLM (private)
-* LLM for DMing Dungeons and Dragons (for funzies) (private)
-* Educational webapp for the kids (private)
+* Building a generic local LLM
+* LLM for DMing Dungeons and Dragons (for funzies)
+* Educational webapp for the kids
   - Includes some borrowed MIT circuit simulation code (can be found in the gcompris code)
 
 ### Previous Projects:
