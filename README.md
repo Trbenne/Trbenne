@@ -4,7 +4,7 @@ I once taught **'Mewing 101'** in Grad School because the IT department *did NOT
 **Mew Master**
 
 ## Boring Stuff:
-- 👋 Hi, I'm Trystan, I graduated Wayne State College in May 2022 and University of Kansas in Dec 2024 with a Masters in Mathematics.
+- Masters in Mathematics.
 - Currently working freelance coding and tutoring jobs.
 - 👀 I’m interested in ML, cyber-security, and robotics.
 - 🌱 I have research in ML techniques for automated pentesting.
